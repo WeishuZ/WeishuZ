@@ -9,12 +9,14 @@ I'm an EECS student at UC Berkeley, passionate about solving real-world problems
 ---
 
 ### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeishuZ&theme=catppuccin_latte&show_icons=true)
+![WeishuZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeishuZ&theme=catppuccin_latte&show&icons=true)
 
+---
 ### Projects
 1. AI-Powered Discord Chatbot for Underrepresented Students
 
-[![HEFAS Agent](https://github-readme-stats.vercel.app/api/pin?username=WeishuZ&repo=HEFAS-Agent&theme=radical)]([https://github.com/lilin90/awesome-technical-communication](https://github.com/WeishuZ/HEFAS-Agent.git))
+[![HEFAS Agent](https://github-readme-stats.vercel.app/api/pin?username=WeishuZ&repo=HEFAS-Agent&theme=github_dark_dimmed&show)]([(https://github.com/WeishuZ/HEFAS-Agent.git)](https://github.com/WeishuZ/HEFAS-Agent.git))
+---
 
 ### I'm Currently Learning/Researching
 
@@ -23,9 +25,7 @@ I'm an EECS student at UC Berkeley, passionate about solving real-world problems
 ---
 
 ### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/weishuz)
+[![Email](https://img.shields.io/badge/Email-red?logo=email)](mailto:weszhang@berkeley.edu)
 
-* [LinkedIn](www.linkedin.com/in/weishuz)
-* [Email](mailto:weszhang@berkeley.edu)
-
----
 
